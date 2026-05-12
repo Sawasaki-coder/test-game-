@@ -1,0 +1,21 @@
+UPDATE MAP (bắt đầu từ 2/5)
+Vẽ xong tầng 1 của nhà (chưa tính cổng nhà)
+-Phòng bếp (đã sửa các lỗi nội thất đặt ko như ý
+-Sân sau (chỉnh sửa lại nền gạch)
+-Hành lang, cầu thang dẫn lên tầng trên
+-Nhà vệ sinh ở sau nhà (mới vẽ chưa test)
+-Phòng khách
+
+TEST 1 - Phòng bếp:
+Đã dựng được đa số cảnh vật như mong muốn, trừ cái bàn và cái tủ lạnh, phối cảnh tạm được
+TEST 2 - Phòng bếp + Sân sau
+Đã dựng được cảnh gần hoàn chỉnh, cần sửa lại cái bàn (ghép ghế chung với bàn), sân sau bị lỗi sắp xếp đồ đạc
+TEST 3 - Phòng bếp + Sân sau + Hành lang
+Phối cảnh đã ổn, build được event với ngoại cảnh ; lỗi hiển thị ở sân sau (mất ô gạch trên tường) ; lối lên cầu thang build sai, nhân vật không đi ngang qua cầu thang được
+-> TEST 3 cãi nhau (đhs)
+
+Những cái đã sửa:
+- Dán hết đồ lặt vặt lên bàn bếp
+- Sắp xếp lại vị trí đồ vật (ghế, chậu, chổi,...vv)
+- Mở rộng sân sau nhà, tạo thêm các lối đi (ô gạch)
+- Vẽ xong các phòng tầng 1 (hành lang, nhà vệ sinh, phòng khách) -> CẦN TEST
